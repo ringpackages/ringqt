@@ -15,6 +15,11 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
+			:name = "codegen",
+			:version = "1.0",
+			:providerusername = ""
+		],
+		[
 			:name = "qt55runtime",
 			:version = "1.0",
 			:providerusername = ""
