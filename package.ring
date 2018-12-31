@@ -18,6 +18,11 @@ aPackageInfo = [
 			:name = "qt55runtime",
 			:version = "1.0",
 			:providerusername = ""
+		],
+		[
+			:name = "qt55qmlruntime",
+			:version = "1.0",
+			:providerusername = ""
 		]
 	],
 	:files = 	[
