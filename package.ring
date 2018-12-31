@@ -1,31 +1,31 @@
 aPackageInfo = [
-	:name = "The ringqt Package",
-	:description = "Our ringqt package using the Ring programming language",
+	:name = "The RingQt Package",
+	:description = "Our RingQt package using the Ring programming language",
 	:folder = "ringqt",
-	:developer = "YourName",
-	:email = "YourEmail",
+	:developer = "Mahmoud Fayed",
+	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "0.1.0",
+	:version = "1.0.0",
 	:ringversion = "1.10",
 	:versions = 	[
 		[
-			:version = "0.1.0",
+			:version = "1.0.0",
 			:branch = "master"
 		]
 	],
 	:libs = 	[
 		[
-			:name = "",
-			:version = "",
+			:name = "qt55runtime",
+			:version = "1.0",
 			:providerusername = ""
 		]
 	],
 	:files = 	[
-		"lib.ring",
 		"main.ring",
+		"README.md"
+	],
+	:ringfolderfiles = 	[
 		"bin/guilib.ring",
-		"bin/ringqt.dll",
-		"README.md",
 		"ring2exe/libs/qt.ring",
 		"ringqt/.qmake.stash",
 		"ringqt/buildclang.sh",
@@ -522,8 +522,6 @@ aPackageInfo = [
 		"ringqt/ring_qt.pro",
 		"ringqt/ring_qt595.pro",
 		"ringqt/ring_qt595.pro.user"
-	],
-	:ringfolderfiles = 	[
 
 	],
 	:windowsfiles = 	[
@@ -536,7 +534,7 @@ aPackageInfo = [
 
 	],
 	:windowsringfolderfiles = 	[
-
+		"bin/ringqt.dll"
 	],
 	:linuxringfolderfiles = 	[
 
