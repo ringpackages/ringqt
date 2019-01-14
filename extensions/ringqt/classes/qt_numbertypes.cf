@@ -1,8 +1,0 @@
-<runcode>
-
-aNumberTypes + "qreal"
-aNumberTypes + "qint64"
-aNumberTypes + "ushort"
-aNumberTypes + "ulong"
-
-</runcode>

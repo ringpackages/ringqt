@@ -1,8 +1,0 @@
-<class>
-name: QXmlStreamNotationDeclaration
-para: void
-</class>
-
-QStringRef name(void)
-QStringRef publicId(void)
-QStringRef systemId(void)

@@ -1,9 +1,0 @@
-<class>
-name: QPageSetupDialog
-para: QPrinter *,QWidget *
-parent: QDialog
-</class>
-
-
-void open(QObject * receiver, char * member)
-QPrinter * printer(void)

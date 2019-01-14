@@ -1,6 +1,0 @@
-<class>
-name: QTextStream2
-para: QIODevice * device
-parent: QTextStream
-codename: QTextStream
-</class>

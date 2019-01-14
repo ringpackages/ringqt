@@ -1,9 +1,0 @@
-<class>
-name: QBluetoothTransferRequest
-para: QBluetoothAddress
-</class>
-
-QBluetoothAddress address(void)
-QVariant attribute(QBluetoothTransferRequest::Attribute code, QVariant defaultValue))
-void setAttribute(QBluetoothTransferRequest::Attribute code, QVariant value)
-

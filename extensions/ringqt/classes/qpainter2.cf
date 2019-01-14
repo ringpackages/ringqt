@@ -1,8 +1,0 @@
-<class>
-name: QPainter2
-para: QPaintDevice *
-parent: QPainter
-codename: QPainter
-</class>
-
-

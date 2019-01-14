@@ -1,6 +1,0 @@
-<class>
-name: QCompleter3
-para: QStringList list, QObject *parent
-parent: QCompleter
-codename: QCompleter
-</class>

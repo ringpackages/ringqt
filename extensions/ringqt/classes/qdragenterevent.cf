@@ -1,5 +1,0 @@
-<class>
-name: QDragEnterEvent
-para: QPoint,Qt::DropActions,const QMimeData *,Qt::MouseButtons,Qt::KeyboardModifiers
-parent: QDragMoveEvent
-</class>

@@ -1,8 +1,0 @@
-<comment>
-				Module (serialport)
-</comment>
-
-<filter> (sysget("RINGQT_ANDROID") = "")
-<loadfile> qserialport.cf
-<loadfile> qserialportinfo.cf
-</filter>

@@ -1,6 +1,0 @@
-<class>
-name: QCompleter2
-para: QAbstractItemModel *model, QObject *parent 
-parent: QCompleter
-codename: QCompleter
-</class>

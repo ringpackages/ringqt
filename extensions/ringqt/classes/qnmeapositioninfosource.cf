@@ -1,9 +1,0 @@
-<class>
-name: QNmeaPositionInfoSource
-para: QNmeaPositionInfoSource::UpdateMode,QObject *
-parent: QGeoPositionInfoSource
-</class>
-
-QIODevice * device(void)
-void setDevice(QIODevice * device)
-QNmeaPositionInfoSource::UpdateMode updateMode(void)

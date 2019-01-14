@@ -1,8 +1,0 @@
-<class>
-name: QHBoxLayout
-para: void
-parent: QBoxLayout
-</class>
-
-void addWidget(QWidget *)
-void addLayout(QLayout *)

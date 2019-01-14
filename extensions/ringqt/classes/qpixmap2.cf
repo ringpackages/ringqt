@@ -1,6 +1,0 @@
-<class>
-name: QPixmap2
-para: int width, int height
-parent: QPixmap
-codename: QPixmap
-</class>
