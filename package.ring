@@ -15,6 +15,11 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
+			:name = "ringzip",
+			:version = "1.0",
+			:providerusername = ""
+		],
+		[
 			:name = "codegen",
 			:version = "1.0",
 			:providerusername = ""
@@ -26,11 +31,6 @@ aPackageInfo = [
 		],
 		[
 			:name = "qt55qmlruntime",
-			:version = "1.0",
-			:providerusername = ""
-		],
-		[
-			:name = "ringzip",
 			:version = "1.0",
 			:providerusername = ""
 		]
