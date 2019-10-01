@@ -12,6 +12,13 @@ aLibrary = [:name = :qt ,
 		"qtwebengine_resources.pak",
 		"qtwebengine_resources_100p.pak",
 		"qtwebengine_resources_200p.pak",
+		"msvcp140.dll",
+		"vccorlib140.dll",
+		"vcruntime140.dll",
+		"libEGL.dll",
+		"libGLESv2.dll",
+		"d3dcompiler_47.dll",
+		"opengl32sw.dll",
 		'"libstdc++-6.dll"',
 		'"libwinpthread-1.dll"'
 	 ] ,
@@ -30,7 +37,8 @@ aLibrary = [:name = :qt ,
 		:sensors,
 		:sensorgestures,
 		:sqldrivers,
-		:translations
+		:translations,
+		:styles
 	 ],
 	 :linuxfiles = [
 		"libringqt.so"
