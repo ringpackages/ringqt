@@ -25,6 +25,11 @@ aPackageInfo = [
 			:providerusername = ""
 		],
 		[
+			:name = "ringqtruntime",
+			:version = "1.0",
+			:providerusername = ""
+		],
+		[
 			:name = "qt515runtime",
 			:version = "1.0",
 			:providerusername = ""
